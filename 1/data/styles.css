@@ -9,6 +9,10 @@
 }
 .box_1 {
 }
+.image {
+}
+.button {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -50,8 +54,20 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.menu_item {
+}
 .icon {
+}
+.flow_shape {
 }
