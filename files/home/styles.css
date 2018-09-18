@@ -593,9 +593,9 @@
 #u20_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:6px;
+  width:179px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1342,5 +1342,30 @@
   left:2px;
   top:16px;
   width:100px;
+  word-wrap:break-word;
+}
+#u46_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:154px;
+  height:56px;
+}
+#u46 {
+  border-width:0px;
+  position:absolute;
+  left:53px;
+  top:1470px;
+  width:153px;
+  height:55px;
+  font-size:28px;
+}
+#u46_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:149px;
   word-wrap:break-word;
 }
