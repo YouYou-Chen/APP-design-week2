@@ -380,6 +380,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u12_ann {
+  border-width:0px;
+  position:absolute;
+  left:618px;
+  top:75px;
+  width:1px;
+  height:1px;
+}
 #u13_img {
   border-width:0px;
   position:absolute;
